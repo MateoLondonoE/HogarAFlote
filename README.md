@@ -20,13 +20,13 @@ Sigue estos pasos para ejecutar el proyecto en tu entorno local:
 1. Clona este repositorio:
 
     ```bash
-    git clone https://github.com/tu-usuario/nombre-del-repo.git
+    git clone https://github.com/MateoLondonoE/HogarAFlote.git
     ```
 
 2. Navega al directorio del proyecto:
 
     ```bash
-    cd nombre-del-repo
+    cd HogarAFlote
     ```
 
 3. Instala las dependencias necesarias:
